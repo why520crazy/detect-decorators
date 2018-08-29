@@ -1,0 +1,35 @@
+{
+  "name": "detect-decorators",
+  "version": "1.0.0",
+  "description": "yes new decorators",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/mixin/mixin-test",
+    "tsc": "npm run clean && tsc",
+    "clean": "rimraf ./built",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/why520crazy/detect-decorators.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/why520crazy/detect-decorators/issues"
+  },
+  "homepage": "https://github.com/why520crazy/detect-decorators#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-syntax-decorators": "^7.0.0",
+    "babel-plugin-transform-decorators": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "reflect-metadata": "^0.1.12",
+    "rimraf": "^2.6.2",
+    "ts-node": "^7.0.0",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {}
+}

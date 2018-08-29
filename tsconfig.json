@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2017",
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "outDir": "built",
+        "baseUrl": ".",
+        "paths": {},
+        "rootDir": "./src",
+        "allowJs": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        // "types": [
+        //     "mocha"
+        // ],
+        "keyofStringsOnly": true,
+        "skipLibCheck": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
