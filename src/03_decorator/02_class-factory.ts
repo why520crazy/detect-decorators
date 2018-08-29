@@ -4,7 +4,7 @@ class TestClassForClassFactory {
 }
 
 function classDecoratorFactory(value: string) {
-    return function (constructor) {
+    return function (constructor: Function) {
         // do something with 'target' and 'value'...
         console.log(`class-decorator-factory, value: ${value}`);
     };
