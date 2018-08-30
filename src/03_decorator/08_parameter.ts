@@ -1,6 +1,6 @@
 import "path";
 
-const requiredMetadataKey = "____WTrr_";// Symbol("required");
+const requiredMetadataKey = Symbol("required");
 
 
 class ParameterGreeter {
