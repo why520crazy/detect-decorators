@@ -10,6 +10,6 @@ export class Hello {
   }
 
   say2() {
-    return `hello ${this.name}`;
+    return `hello2 ${this.name}`;
   }
 }
