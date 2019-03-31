@@ -8,4 +8,8 @@ export class Hello {
   say() {
     return `hello ${this.name}`;
   }
+
+  say2() {
+    return `hello ${this.name}`;
+  }
 }
