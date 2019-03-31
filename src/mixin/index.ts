@@ -1,7 +1,11 @@
 export class Hello {
-  constructor() {}
+  name: string;
+
+  constructor(name: string) {
+    this.name = name;
+  }
 
   say() {
-    return `hello world`;
+    return `hello ${this.name}`;
   }
 }
