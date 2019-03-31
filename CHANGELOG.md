@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.2](https://github.com/why520crazy/detect-decorators/compare/v1.3.1...v1.3.2) (2019-03-31)
+
+
+### Features
+
+* add Hello run31 ([332f886](https://github.com/why520crazy/detect-decorators/commit/332f886))
+
+
+
 ## [1.3.1](https://github.com/why520crazy/detect-decorators/compare/v1.2.6...v1.3.1) (2019-03-31)
 
 
