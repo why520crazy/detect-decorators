@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [1.2.0](https://github.com/why520crazy/detect-decorators/compare/v1.1.6...v1.2.0) (2019-03-31)
+
+
+### Bug Fixes
+
+* say2 should return hello2 ([0c91361](https://github.com/why520crazy/detect-decorators/commit/0c91361))
+
+
+### Features
+
+* add run method ([d0c6c94](https://github.com/why520crazy/detect-decorators/commit/d0c6c94))
+
+
+
 ## [1.1.3](https://github.com/why520crazy/detect-decorators/compare/v1.1.3-0...v1.1.3) (2019-03-31)
 
 
