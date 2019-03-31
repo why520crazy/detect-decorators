@@ -12,4 +12,8 @@ export class Hello {
   say2() {
     return `hello2 ${this.name}`;
   }
+
+  run() {
+      console.log('run');
+  }
 }
