@@ -14,6 +14,6 @@ export class Hello {
   }
 
   run() {
-      console.log('run');
+      console.log(`run`);
   }
 }
