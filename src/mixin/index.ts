@@ -20,4 +20,8 @@ export class Hello {
   run10() {
     console.log(`run 10`);
   }
+
+  run20() {
+    console.log(`run 10`);
+  }
 }
