@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.1](https://github.com/why520crazy/detect-decorators/compare/v1.2.6...v1.3.1) (2019-03-31)
+
+
+### Bug Fixes
+
+* 1.2.5 ([d24d7bb](https://github.com/why520crazy/detect-decorators/commit/d24d7bb))
+* 1.2.6 ([a6242c7](https://github.com/why520crazy/detect-decorators/commit/a6242c7))
+* 11123w ([8c84142](https://github.com/why520crazy/detect-decorators/commit/8c84142))
+* run10 should return run 10 ([8fa9b3b](https://github.com/why520crazy/detect-decorators/commit/8fa9b3b))
+* run20 should return run20 ([5f641c1](https://github.com/why520crazy/detect-decorators/commit/5f641c1))
+* run21 ([9610639](https://github.com/why520crazy/detect-decorators/commit/9610639))
+
+
+### Features
+
+* add run20 ([5f48a56](https://github.com/why520crazy/detect-decorators/commit/5f48a56))
+
+
+
 # [1.3.0](https://github.com/why520crazy/detect-decorators/compare/v1.2.6...v1.3.0) (2019-03-31)
 
 
