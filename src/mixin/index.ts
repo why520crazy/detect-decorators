@@ -21,7 +21,7 @@ export class Hello {
     console.log(`run 10`);
   }
 
-  run20() {
-    console.log(`run 20`);
+  run21() {
+    console.log(`run 21`);
   }
 }
