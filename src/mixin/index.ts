@@ -22,6 +22,6 @@ export class Hello {
   }
 
   run20() {
-    console.log(`run 10`);
+    console.log(`run 20`);
   }
 }
