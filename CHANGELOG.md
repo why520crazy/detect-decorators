@@ -1,3 +1,12 @@
+## [1.2.3](https://github.com/why520crazy/detect-decorators/compare/v1.2.5...v1.2.3) (2019-03-31)
+
+
+### Bug Fixes
+
+* should return run 1 when call run ([f486175](https://github.com/why520crazy/detect-decorators/commit/f486175))
+
+
+
 ## [1.2.1](https://github.com/why520crazy/detect-decorators/compare/v1.1.6...v1.2.1) (2019-03-31)
 
 
