@@ -1,3 +1,28 @@
+## [1.2.1](https://github.com/why520crazy/detect-decorators/compare/v1.1.6...v1.2.1) (2019-03-31)
+
+
+### Bug Fixes
+
+* error ([6d422b5](https://github.com/why520crazy/detect-decorators/commit/6d422b5))
+* say2 should return hello2 ([0c91361](https://github.com/why520crazy/detect-decorators/commit/0c91361))
+
+
+### Features
+
+* add run method ([d0c6c94](https://github.com/why520crazy/detect-decorators/commit/d0c6c94))
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([df84bc0](https://github.com/why520crazy/detect-decorators/commit/df84bc0))
+
+
+### BREAKING CHANGES
+
+* **pencil:** The graphiteWidth option has been removed. The default graphite width of 10mm is always used for performance reason.
+
+
+
 # Change Log
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
