@@ -1,6 +1,6 @@
 {
   "name": "detect-decorators",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "yes new decorators",
   "main": "index.js",
   "scripts": {
