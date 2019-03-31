@@ -1,6 +1,6 @@
 {
   "name": "detect-decorators",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "yes new decorators",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "tsc": "npm run clean && tsc",
     "clean": "rimraf ./built",
     "changelog-help": "conventional-changelog --help",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s --pkg package.json",
     "release": "standard-version",
     "patch": "npm version patch -m \"build: upgrade to %s\"",
     "test": "echo \"Error: no test specified\" && exit 1"
