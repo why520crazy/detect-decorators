@@ -1,3 +1,20 @@
+## [1.2.7](https://github.com/why520crazy/detect-decorators/compare/v1.2.6...v1.2.7) (2019-03-31)
+
+
+### Bug Fixes
+
+* 1.2.5 ([d24d7bb](https://github.com/why520crazy/detect-decorators/commit/d24d7bb))
+* 1.2.6 ([a6242c7](https://github.com/why520crazy/detect-decorators/commit/a6242c7))
+* 11123w ([8c84142](https://github.com/why520crazy/detect-decorators/commit/8c84142))
+* run10 should return run 10 ([8fa9b3b](https://github.com/why520crazy/detect-decorators/commit/8fa9b3b))
+
+
+### Features
+
+* add run20 ([5f48a56](https://github.com/why520crazy/detect-decorators/commit/5f48a56))
+
+
+
 ## [1.2.5](https://github.com/why520crazy/detect-decorators/compare/v1.2.6...v1.2.5) (2019-03-31)
 
 
