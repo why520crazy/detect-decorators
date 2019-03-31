@@ -1,3 +1,20 @@
+## 1.0.2 (2019-03-31)
+
+
+### Bug Fixes
+
+* 1.0.1 ([4a6ae65](https://github.com/why520crazy/detect-decorators/commit/4a6ae65))
+* build 1.0.1 ([330e72c](https://github.com/why520crazy/detect-decorators/commit/330e72c))
+
+
+### Features
+
+* **build:** add changelog build script ([674aebf](https://github.com/why520crazy/detect-decorators/commit/674aebf))
+* add class Hello ([6ad67d5](https://github.com/why520crazy/detect-decorators/commit/6ad67d5))
+* add index.ts ([807a5b9](https://github.com/why520crazy/detect-decorators/commit/807a5b9))
+
+
+
 ## 1.0.1 (2019-03-31)
 
 
