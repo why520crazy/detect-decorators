@@ -1,3 +1,12 @@
+## [1.2.5](https://github.com/why520crazy/detect-decorators/compare/v1.2.6...v1.2.5) (2019-03-31)
+
+
+### Bug Fixes
+
+* 1.2.5 ([d24d7bb](https://github.com/why520crazy/detect-decorators/commit/d24d7bb))
+
+
+
 ## [1.2.4](https://github.com/why520crazy/detect-decorators/compare/v1.2.5...v1.2.4) (2019-03-31)
 
 
