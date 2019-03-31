@@ -14,6 +14,10 @@ export class Hello {
   }
 
   run() {
-      console.log(`run 11`);
+    console.log(`run 11`);
+  }
+
+  run10() {
+    console.log(`run 11`);
   }
 }
