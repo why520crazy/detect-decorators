@@ -1,6 +1,6 @@
 {
   "name": "detect-decorators",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "yes new decorators",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
     "clean": "rimraf ./built",
     "changelog-help": "conventional-changelog --help",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
